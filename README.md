@@ -1,2 +1,2 @@
 # RSA-implementation-
-implement RSA functions bu python
+implement RSA functions by python
